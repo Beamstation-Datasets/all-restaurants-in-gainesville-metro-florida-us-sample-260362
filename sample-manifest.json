@@ -1,0 +1,12 @@
+{
+  "export_job_id": "2693f7af-916e-481b-bde9-ba6db9650be7",
+  "id_short": 260362,
+  "published_at": "2026-04-18T07:43:50Z",
+  "repo_name": "all-restaurants-in-gainesville-metro-florida-us-sample-260362",
+  "sample_asset_name": "beamstation_260362_restaurants-us-gainesvillefl_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/260362/beamstation_260362_restaurants-us-gainesvillefl_SAMPLE_DIST.csv",
+  "sample_records": 67,
+  "sample_sha256": "3f4512bfd84d154b760192cc1bc1628578613acc3447da6f9a3a3f9ce5067c03",
+  "sample_size_bytes": 261554,
+  "total_records": 677
+}
