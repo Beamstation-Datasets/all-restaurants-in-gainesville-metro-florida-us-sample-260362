@@ -1,0 +1,22 @@
+{
+  "base_price": 3750,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Restaurant market intelligence for the Gainesville (Metro), Florida metro, including Gainesville. Covers a growing metropolitan dining market, filtered by the Restaurants category group. Includes verified business profiles, review analytics, competitive rankings, and contact details. Refreshed weekly.",
+  "config_name": "All Restaurants in Gainesville (Metro), Florida, US",
+  "export_job_id": "2693f7af-916e-481b-bde9-ba6db9650be7",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 260362,
+  "location_name": "Gainesville, FL",
+  "location_type": "metro",
+  "repo_name": "all-restaurants-in-gainesville-metro-florida-us-sample-260362",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/260362/beamstation_260362_restaurants-us-gainesvillefl_SAMPLE_DIST.csv",
+  "sample_pct": 9.9,
+  "sample_records": 67,
+  "sample_sha256": "3f4512bfd84d154b760192cc1bc1628578613acc3447da6f9a3a3f9ce5067c03",
+  "sample_size_bytes": 261554,
+  "total_records": 677,
+  "updated_at": "2026-04-14T19:27:29.478654+00:00"
+}
