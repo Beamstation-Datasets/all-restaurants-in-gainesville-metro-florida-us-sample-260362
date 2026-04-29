@@ -1,6 +1,6 @@
 # All Restaurants in Gainesville (Metro), Florida, US
 
-> Free BeamStation sample export with 43 rows and masked direct-contact fields.
+> Free BeamStation sample export with 69 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `260362` |
 | Location | Gainesville, FL |
 | Category | Restaurants |
-| Full dataset size | 432 records |
-| Free sample size | 43 records (9.95%) |
-| Last export | 2026-04-21T21:27:36.088805+00:00 |
+| Full dataset size | 690 records |
+| Free sample size | 69 records (10.0%) |
+| Last export | 2026-04-28T23:32:57.599834+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-gainesville-metro-florida-us-sample-260362/releases/download/sample-latest/beamstation_260362_restaurants-us-gainesvillefl_SAMPLE_DIST.csv) |
 
 ## What is in this sample
